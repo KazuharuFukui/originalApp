@@ -1,0 +1,6 @@
+framework module Pods_MedicineTimeUITests {
+  umbrella header "Pods-MedicineTimeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
